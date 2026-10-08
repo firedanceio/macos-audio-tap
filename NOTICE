@@ -1,0 +1,10 @@
+macos-audio-tap
+Copyright 2026 Firedance Multimedia LLC
+
+This product includes approaches to Core Audio process taps adapted from:
+
+- AudioCap (https://github.com/insidegui/AudioCap)
+  Copyright (c) Guilherme Rambo. Licensed under the BSD 2-Clause License.
+
+- AudioTee (https://github.com/makeusabrew/audiotee)
+  Copyright (C) 2025 Nick Payne. Licensed under the MIT License.
